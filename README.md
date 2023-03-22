@@ -15,6 +15,8 @@ A website that has both front-end and back-end, user needs to type in 'npm run d
 
 ## Installation
 End user can create an account on the website to search a book. It has a feature to save a book in database for the searched books.
+
+[bookSearch.webm](https://user-images.githubusercontent.com/101073782/226520063-0e63b608-8680-45b8-b98a-149ca9c0b5ba.webm)
     
 
 ## Instructions
